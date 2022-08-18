@@ -1,4 +1,130 @@
 body
 {
-    background-color: #A5C9CA;
+    background-color: #826F66;
 }
+
+/* styling for nav bar TBC */
+#top-container
+{
+    padding: 20px;
+}
+/* ------------------------ */
+
+
+/* styling for welcome message */
+.profile-picture
+{
+    width: 20%;
+    border-style:solid;
+    border-width: 5px;
+    border-radius: 50%;
+    -webkit-border-radius: 52%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+#welcome-msg
+{
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.f-name
+{
+    font-family: 'Epilogue', sans-serif; 
+    font-weight: bold;
+    font-style: italic;
+}
+
+#circle-line
+{
+    border-style: dotted none none none;
+    border-width: 12px;
+    width: 10%;
+}
+
+hr
+{
+    border-style: dotted none none none;
+    border-width: 10px;
+    width: 30%;
+}
+/* ------------------------ */
+
+
+/* styling for experiences and common elements */
+#work-experiences
+{
+    padding-top: 1%;
+    text-align: center;
+}
+/* ------------------------ */
+
+/* styling for education */
+#education
+{
+    padding-top: 1%;
+    text-align: center;
+}
+/* ------------------------ */
+
+/* styling for footer elements */
+#bottom-container
+{
+   margin: 0;
+   padding: 10px 0px 0px 0px
+}
+
+.footer-elements
+{
+    padding: 0;
+    text-align: center;
+}
+/* ------------------------ */
+
+/* common elements*/
+.title
+{
+    font-family: 'Epilogue', sans-serif; 
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.work-title
+{
+    margin-bottom: 12px;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 25px;
+}
+
+.company-title  
+{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.since-when
+{
+    margin-top: 0;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 400;
+}
+
+p
+{
+    font-family: 'Tenor Sans', sans-serif;
+    padding: 0% 15% 0% 15%;
+}
+
+.line
+{
+    border-style: dotted none none none;
+    border-width: 3.5px;
+    width: 10%;
+}
+/* ------------------------ */
